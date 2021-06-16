@@ -597,7 +597,7 @@ $(document).ready(function() {
 			
 		else
 			clockTitle.innerHTML = '시간이 되었습니다'
-			window.open('http://localhost:3000/mailTry');
+			
 		return timeout;
 	}
 	

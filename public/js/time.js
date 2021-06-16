@@ -22,7 +22,7 @@ function getTime() {
 
 function init() {
   getTime();
-  setInterval(getTime, 1000);
+  setInterval(getTime, 2000);
 }
 init();
 
